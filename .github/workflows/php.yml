@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: tools-ext-01.ccr.xdmod.org/centos8:base
 
     steps:
       - uses: actions/checkout@v2
