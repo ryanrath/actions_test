@@ -1,5 +1,7 @@
 {
     "name": "spark0r/actions_test",
+    "description": "Just a test repo",
+    "license": [ "MIT" ],
     "require": {
         "monolog/monolog": "^2.2"
     },
